@@ -1,0 +1,13 @@
+#Maven Generated files and folders
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.next
+release.properties
+
+
+#Eclipse Generated files and folders
+.settings/
+*.classpath
+*.project
+*.prefs
